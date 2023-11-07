@@ -116,6 +116,7 @@
     overflow: hidden !important;
     position: absolute;
     top: -16px;
+    left: 300px;
     width: calc(100% - 90px);
     height: 60px;
 }
@@ -159,7 +160,7 @@ footer
     background-color: #1e1b54;
     position: absolute;
     display: block;
-    top: 160vh;
+    top: 130vh;
     left: 0;
     width: 100vw;
     height: 350px;
