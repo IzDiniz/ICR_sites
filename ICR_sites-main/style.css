@@ -153,6 +153,8 @@
     position: absolute;
     top: 260px;
     left: 0;
+    width: 100%;
+    height: auto;
 }
 footer
 {
